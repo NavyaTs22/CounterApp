@@ -36,21 +36,10 @@ function App() {
 
        </div>
     </>
-
-  return (
-    
-    <div>
-      <h1>COUNTER APP</h1>
-      <br></br>
-      {number}
-      <br></br>
-      <button onClick={increment}>+</button>
-      <button onClick={decrement}>-</button>
-      <button onClick={reset}>RESET</button>
-    </div> 
-    
-    
   )
+
 }
 
 export default App
+
+  
