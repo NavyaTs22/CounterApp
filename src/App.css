@@ -21,7 +21,7 @@
 }
 
 body {
-  background-image: url(src/assets/Background.jpg);
+  background-image: url(../assets/Background.jpg);
   opacity: 80%;
 }
 
